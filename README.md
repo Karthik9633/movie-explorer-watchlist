@@ -49,7 +49,7 @@ movie-explorer-watchlist/<br>
 
 ---
 
-## 🧠 Key Concepts Covered
+## 🧠 Key Concepts Covered.
 
 - DOM creation and manipulation
 - Array methods (`map`, `filter`, `some`, `find`)
